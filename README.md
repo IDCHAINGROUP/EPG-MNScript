@@ -36,7 +36,7 @@ This guide will assist you in setting up a EncocoinPlus Masternode on a Linux Se
 - ```git clone https://github.com/IDCHAINGROUP/EPG-MNScript.git```  
 
 ##### 4. Start MN setup script: 
-- ```cd epg-MN && chmod +x ./EPG-MN.sh && ./EPG-MN.sh```
+- ```cd EPG-MNScript && chmod +x ./EPG-MN.sh && ./EPG-MN.sh```
    
 **Now ask for VPS Public IP Address** 
 
